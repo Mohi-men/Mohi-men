@@ -3,7 +3,7 @@
 
 
 <!-- ![short bio](me.png) -->
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{red}**Welcome** \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 I am <p color="red">Md. Mohimen Molla</p> 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a **.NET backend developer**, I want to advance my professional career. I love to explore and learn about new things.
 
 ## 👯 Summary
