@@ -4,7 +4,7 @@
 
 <!-- ![short bio](me.png) -->
 $${\color{red}Welcome** \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-I am $${\color{red}Md. Mohimen Molla$$ 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a **.NET backend developer**, I want to advance my professional career. I love to explore and learn about new things.
+I am $${\color{red}Md. Mohimen Molla}$$ 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a **.NET backend developer**, I want to advance my professional career. I love to explore and learn about new things.
 
 ## 👯 Summary
 
