@@ -18,10 +18,11 @@ I am **Md. Mohimen Molla** 😃 from Dhaka, Bangladesh. I am a passionate proble
 
 Talk to me about:
 
-- Backend development using **ASP .NET 5;6, ASP .NET MVC, .NET core, WEBApi.
+- Backend development using **ASP .NET 5 & 6, ASP .NET MVC, .NET core, WEBApi, Entity Framework**.
 - Front-end development using **Angular**.
 - Language expertise in **Python, C/C++, C#, Java**.
 - Expertise in **HTML**.
+- Basic knowledge in **REST API**.
 - Basic knowledge in **JavaScript, CSS**.
 - Making for **Relational Database Management Systems** (MySQL, SQL Server 19), Oracle.
 - Solving Data structure and algorithm questions in **C/C++, Python**.
