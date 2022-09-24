@@ -1,19 +1,17 @@
-[![Linkedin Badge](https://img.shields.io/badge/-mdmohimenmolla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohiiimen/)](https://www.linkedin.com/in/mohiiimen/) [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mdmohimenmolla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohiiimen/)](https://www.linkedin.com/in/mohiiimen/) 
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun)  -->
+[![Gmail Badge](https://img.shields.io/badge/-mohimen.cs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohimen.cs@gmail.com)](mailto:mohimen.cs.com)
 
 <!-- ![short bio](me.png) -->
 
-I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
+I am Md. Mohimen Molla 😃 from Dhaka, Bangladesh. I am a passionate problem solver. I'm inertested to build my professional career as a .NET backend developer. I love to explore and learn about new things.
 
 ## 👯 Summary
 
 - Passionate in programming
 - Excellent reputation for **problem solving ability**
 - Experienced and skilled enough in **Algorithms and Data Structure**
-- Participated **18+ IUPC (Inter University Programming Contest)** on behalf of BRAC University
-- Solved **1500+ online programming problems**
-- Authored **12+ programming problems**
-- Judge and Problem setter at **6+ programming contests**
-- Experience of working in a largest e-commerce ecosystem and banking software
+- Solved **200+ online programming problems**
 - Team player and love to take new challenges
 <!-- - Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app). -->
 
@@ -21,15 +19,17 @@ I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate proble
 
 Talk to me about:
 
-- Backend development using **Django, Asyncio, Flask, Node js, Express js**, Sanic, FastAPI.
-- Front-end development using **React**.
-- Language expertise in **Python, C/C++, JavaScript, Java**.
-- Making for **Relational Database Management Systems** (MySQL, PostgreSQL), MongoDB.
+- Backend development using **ASP .NET 5;6, ASP .NET MVC, .NET core, WEBApi.
+- Front-end development using **Angular**.
+- Language expertise in **Python, C/C++, C#, Java**.
+- Expertise in **HTML**.
+- Basic knowledge in **JavaScript, CSS**.
+- Making for **Relational Database Management Systems** (MySQL, SQL Server 19), Oracle.
 - Solving Data structure and algorithm questions in **C/C++, Python**.
-- Regular user of **Linux Operating System**.
-- Experience of using **Docker**, Kubernetes.
-- Desktop application development using **Java**.
-- Mobile application development using **Java, Kotlin, Flutter**.
+- Regular user of **Windows 11 Operating System**.
+- Strong knowledge of **Linux Operating System** & **CLI**.
+- Experience of using **Github**.
+- Desktop application development using **C#**.
 
 <h3 align="left">Social Media and Online Judge Profile:</h3>
 
