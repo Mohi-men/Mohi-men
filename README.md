@@ -4,7 +4,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}MyWorld}$$
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun)  -->
 
 <!-- ![short bio](me.png) -->
-$\text{I am Md. Mohimen Molla 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a **.NET backend developer**, I want to advance my professional career. I love to explore and learn about new things.}$ 
+$\text{I am Md. Mohimen Molla 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a .NET backend developer, I want to advance my professional career. I love to explore and learn about new things.}$$
 
 ## 👯 Summary
 
