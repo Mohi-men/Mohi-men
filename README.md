@@ -4,7 +4,7 @@
 
 <!-- ![short bio](me.png) -->
 
-I am Md. Mohimen Molla 😃 from Dhaka, Bangladesh. I am a passionate problem solver. I'm inertested to build my professional career as a .NET backend developer. I love to explore and learn about new things.
+I am **Md. Mohimen Molla** 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a **.NET backend developer**, I want to advance my professional career. I love to explore and learn about new things.
 
 ## 👯 Summary
 
