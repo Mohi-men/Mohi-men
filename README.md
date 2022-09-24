@@ -13,7 +13,6 @@ I am Md. Mohimen Molla 😃 from Dhaka, Bangladesh. I am a passionate problem so
 - Experienced and skilled enough in **Algorithms and Data Structure**
 - Solved **200+ online programming problems**
 - Team player and love to take new challenges
-<!-- - Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app). -->
 
 ## ⚡ Technologies
 
@@ -33,6 +32,4 @@ Talk to me about:
 
 <h3 align="left">Social Media and Online Judge Profile:</h3>
 
-<!--
-<a href="https://fb.com/shiningflaash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiningflaash" height="24" width="30" /></a> <a href="https://instagram.com/shiningflash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningflash_" height="24" width="30" /></a> <a href="https://www.youtube.com/c/shiningflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shiningflash" height="24" width="30" /><a href="https://www.leetcode.com/shiningflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiningflash" height="24" width="30" /></a> <a href="https://www.hackerrank.com/shiningflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiningflash" height="24" width="30" /></a> <a href="https://www.codechef.com/users/shiningflash_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiningflash_" height="24" width="30" /></a> </p></a> -->
 <a href="https://codeforces.com/profile/Md_mohimen3" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Md_mohimen3" height="24" width="30" /></a> 
