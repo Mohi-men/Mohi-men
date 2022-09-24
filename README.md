@@ -3,14 +3,7 @@
 
 
 <!-- ![short bio](me.png) -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
-    <text x="0" y="15" fill="#4285f4">G</text>
-    <text x="12" y="15" fill="#ea4335">o</text>
-    <text x="21" y="15" fill="#fbbc05">o</text>
-    <text x="30" y="15" fill="#4285f4">g</text>
-    <text x="40" y="15" fill="#389738">l</text>
-    <text x="45" y="15" fill="#ea4335">e</text>
-</svg>
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 I am <p color="red">Md. Mohimen Molla</p> 😃 from Dhaka, Bangladesh. I am a passionate problem solver. As a **.NET backend developer**, I want to advance my professional career. I love to explore and learn about new things.
 
 ## 👯 Summary
