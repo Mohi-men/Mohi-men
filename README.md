@@ -22,7 +22,7 @@ Talk to me about:
 - Front-end development using **Angular**.
 - Language expertise in **Python, C/C++, C#, Java**.
 - Expertise in **HTML**.
-- Basic knowledge in **REST API**.
+- Basic knowledge in **REST API, SOA, Microservieces**.
 - Basic knowledge in **JavaScript, CSS**.
 - Making for **Relational Database Management Systems** (MySQL, SQL Server 19), Oracle.
 - Solving Data structure and algorithm questions in **C/C++, Python**.
